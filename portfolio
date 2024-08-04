@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>NutriXP</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    </head>
+
+    <body>
+        <br>
+        <img src="nutriXP.png" width="100" class="center-image"/>
+        <hr></hr>
+        <div class="marquee-container">
+        <div class="marquee">
+            <a href="https://www.google.com" target="_blank" class="clase">PROMOCIÓN 5% DESCUENTO</a>
+        </div>
+        <ul class="menu">
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Productos</a></li>
+                <li><a href="#">Acerca de</a></li>
+                <li><a href="#">Contacto</a></li>
+        </ul>
+        <a href="https://www.google.com" target="_blank"><img src="PACKSALUD.png" width="500" class="center-image"/>
+            </a>
+    </div>
+    </body>
+</head>
+</html>
